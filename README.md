@@ -20,7 +20,7 @@ sudo apt upgrade
 
 ```
 
-### Creating Directory
+# Creating Directory
 mkdir aosp11 && cd aosp11 #11-represents android version you are building
 
 ```
