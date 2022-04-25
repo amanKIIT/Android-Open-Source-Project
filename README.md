@@ -10,9 +10,7 @@ sudo apt update
 
 sudo apt upgrade
 ```
-
-
-![Screenshot from 2022-04-24 02-08-58](https://user-images.githubusercontent.com/101529964/165147323-6395a26b-87b5-4252-8ad1-d8ceb96a6111.png)
+![Screenshot from 2022-04-24 02-08-58](https://user-images.githubusercontent.com/101529964/165150195-788ba919-b879-434f-a0d0-8990960963ca.png)
 ![Screenshot from 2022-04-25 17-55-47](https://user-images.githubusercontent.com/101529964/165147574-fae24a47-174e-403a-a529-3b9876577c75.png)
 
 
